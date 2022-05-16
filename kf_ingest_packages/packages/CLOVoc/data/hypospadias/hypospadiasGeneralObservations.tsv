@@ -1,0 +1,29 @@
+Participant ID	Age at Observation Value	Age at Observation Units	Observation Name	Observation Ontology URI	Observation Code	Quantity Value	Quantity System	Quantity Units	Vital Signs	Interpretation	Status	Body Site Name	Body Site Ontology URI	Body Site Code
+H15-C	28	Months	Body temperature	http://snomed.info/id/386725007	386725007	98	http://unitsofmeasure.org	[degF]	Body temperature	normal	Positive	Oral cavity	http://snomed.info/id/74262004	74262004
+H21-C	24	Months	Body temperature	http://snomed.info/id/386725007	386725007	37	http://unitsofmeasure.org	Cel	Body temperature	normal	Positive	Forehead	http://snomed.info/id/52795006	52795006
+H22-C	28	Months	Body temperature	http://snomed.info/id/386725007	386725007	98	http://unitsofmeasure.org	[degF]	Body temperature	normal	Positive	Oral cavity	http://snomed.info/id/74262004	74262004
+H27-C	13	Months	Body temperature	http://snomed.info/id/386725007	386725007	98	http://unitsofmeasure.org	[degF]	Body temperature	normal	Positive	Forehead	http://snomed.info/id/52795006	52795006
+H28-C	7	Months	Body temperature	http://snomed.info/id/386725007	386725007	99	http://unitsofmeasure.org	[degF]	Body temperature	normal	Positive	Forehead	http://snomed.info/id/52795006	52795006
+H29-C	7	Months	Body temperature	http://snomed.info/id/386725007	386725007	36	http://unitsofmeasure.org	Cel	Body temperature	normal	Positive	Forehead	http://snomed.info/id/52795006	52795006
+H42-C	28	Months	Body temperature	http://snomed.info/id/386725007	386725007	98	http://unitsofmeasure.org	[degF]	Body temperature	normal	Positive	Oral cavity	http://snomed.info/id/74262004	74262004
+H8-C	13	Months	Body temperature	http://snomed.info/id/386725007	386725007	99	http://unitsofmeasure.org	[degF]	Body temperature	normal	Positive	Forehead	http://snomed.info/id/52795006	52795006
+H12-I	6	Months	Body temperature	http://snomed.info/id/386725007	386725007	37	http://unitsofmeasure.org	Cel	Body temperature	normal	Positive	Forehead	http://snomed.info/id/52795006	52795006
+H20-I	6	Months	Body temperature	http://snomed.info/id/386725007	386725007	98	http://unitsofmeasure.org	[degF]	Body temperature	normal	Positive	Forehead	http://snomed.info/id/52795006	52795006
+H23-I	6	Months	Body temperature	http://snomed.info/id/386725007	386725007	97	http://unitsofmeasure.org	[degF]	Body temperature	normal	Positive	Forehead	http://snomed.info/id/52795006	52795006
+H26-I	5	Months	Body temperature	http://snomed.info/id/386725007	386725007	98	http://unitsofmeasure.org	[degF]	Body temperature	normal	Positive	Rectum	http://snomed.info/id/34402009	34402009
+H32-I	23	Months	Body temperature	http://snomed.info/id/386725007	386725007	68	http://unitsofmeasure.org	[degF]	Body temperature	normal	Positive	Forehead	http://snomed.info/id/52795006	52795006
+H3-I	22	Months	Body temperature	http://snomed.info/id/386725007	386725007	98	http://unitsofmeasure.org	[degF]	Body temperature	normal	Positive	Forehead	http://snomed.info/id/52795006	52795006
+H40-I	14	Months	Body temperature	http://snomed.info/id/386725007	386725007	37	http://unitsofmeasure.org	Cel	Body temperature	normal	Positive	Forehead	http://snomed.info/id/52795006	52795006
+H24-II	6	Months	Body temperature	http://snomed.info/id/386725007	386725007	97	http://unitsofmeasure.org	[degF]	Body temperature	normal	Positive	Forehead	http://snomed.info/id/52795006	52795006
+H30-II	6	Months	Body temperature	http://snomed.info/id/386725007	386725007	98	http://unitsofmeasure.org	[degF]	Body temperature	normal	Positive	Forehead	http://snomed.info/id/52795006	52795006
+H31-II	5	Months	Body temperature	http://snomed.info/id/386725007	386725007	37	http://unitsofmeasure.org	Cel	Body temperature	normal	Positive	Rectum	http://snomed.info/id/34402009	34402009
+H33-II	6	Months	Body temperature	http://snomed.info/id/386725007	386725007	98	http://unitsofmeasure.org	[degF]	Body temperature	normal	Positive	Forehead	http://snomed.info/id/52795006	52795006
+H35-II	10	Months	Body temperature	http://snomed.info/id/386725007	386725007	98	http://unitsofmeasure.org	[degF]	Body temperature	normal	Positive	Forehead	http://snomed.info/id/52795006	52795006
+H36-II	9	Months	Body temperature	http://snomed.info/id/386725007	386725007	99	http://unitsofmeasure.org	[degF]	Body temperature	normal	Positive	Forehead	http://snomed.info/id/52795006	52795006
+H43-II	5	Months	Body temperature	http://snomed.info/id/386725007	386725007	97	http://unitsofmeasure.org	[degF]	Body temperature	normal	Positive	Rectum	http://snomed.info/id/34402009	34402009
+H14-III	7	Months	Body temperature	http://snomed.info/id/386725007	386725007	98	http://unitsofmeasure.org	[degF]	Body temperature	normal	Positive	Forehead	http://snomed.info/id/52795006	52795006
+H37-III	5	Months	Body temperature	http://snomed.info/id/386725007	386725007	99	http://unitsofmeasure.org	[degF]	Body temperature	normal	Positive	Rectum	http://snomed.info/id/34402009	34402009
+H38-III	5	Months	Body temperature	http://snomed.info/id/386725007	386725007	99	http://unitsofmeasure.org	[degF]	Body temperature	normal	Positive	Rectum	http://snomed.info/id/34402009	34402009
+H39-III	6	Months	Body temperature	http://snomed.info/id/386725007	386725007	98	http://unitsofmeasure.org	[degF]	Body temperature	normal	Positive	Forehead	http://snomed.info/id/52795006	52795006
+H41-III	7	Months	Body temperature	http://snomed.info/id/386725007	386725007	99	http://unitsofmeasure.org	[degF]	Body temperature	normal	Positive	Forehead	http://snomed.info/id/52795006	52795006
+H44-III	5	Months	Body temperature	http://snomed.info/id/386725007	386725007	37	http://unitsofmeasure.org	Cel	Body temperature	normal	Positive	Rectum	http://snomed.info/id/34402009	34402009
