@@ -1,127 +1,127 @@
-Participant ID	Age at Observation Value	Age at Observation Units	Observation Name	Observation Ontology URI	Observation Code	Quantity Value	Quantity System	Quantity Units	Vital Signs	Interpretation	Status	Body Site Name	Body Site Ontology URI	Body Site Code
-A12	61	Months	Weight	http://snomed.info/id/27113001	27113001	20.4	http://unitsofmeasure.org	kg	weight	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
-A17	10	Months	Weight	http://snomed.info/id/27113001	27113001	10.8	http://unitsofmeasure.org	kg	weight	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
-A10	61	Months	Weight	http://snomed.info/id/27113001	27113001	18.2	http://unitsofmeasure.org	kg	weight	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
-A11	1	Months	Weight	http://snomed.info/id/27113001	27113001	4.5	http://unitsofmeasure.org	kg	weight	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
-A13	53	Months	Weight	http://snomed.info/id/27113001	27113001	14.3	http://unitsofmeasure.org	kg	weight	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
-A14	58	Months	Weight	http://snomed.info/id/27113001	27113001	16.4	http://unitsofmeasure.org	kg	weight	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
-A15	30	Months	Weight	http://snomed.info/id/27113001	27113001	12.1	http://unitsofmeasure.org	kg	weight	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
-A22	91	Months	Weight	http://snomed.info/id/27113001	27113001	20.5	http://unitsofmeasure.org	kg	weight	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
-A23	61	Months	Weight	http://snomed.info/id/27113001	27113001	18.6	http://unitsofmeasure.org	kg	weight	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
-A24	4	Months	Weight	http://snomed.info/id/27113001	27113001	5.65	http://unitsofmeasure.org	kg	weight	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
-A26	49	Months	Weight	http://snomed.info/id/27113001	27113001	15.9	http://unitsofmeasure.org	kg	weight	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
-A27	53	Months	Weight	http://snomed.info/id/27113001	27113001	18.3	http://unitsofmeasure.org	kg	weight	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
-A3	6	Months	Weight	http://snomed.info/id/27113001	27113001	7.8	http://unitsofmeasure.org	kg	weight	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
-A5	4	Months	Weight	http://snomed.info/id/27113001	27113001	4.7	http://unitsofmeasure.org	kg	weight	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
-A9	77	Months	Weight	http://snomed.info/id/27113001	27113001	25.3	http://unitsofmeasure.org	kg	weight	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
-B18	25	Months	Weight	http://snomed.info/id/27113001	27113001	14.6	http://unitsofmeasure.org	kg	weight	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
-B8	4	Months	Weight	http://snomed.info/id/27113001	27113001	6.7	http://unitsofmeasure.org	kg	weight	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
-A1	50	Months	Weight	http://snomed.info/id/27113001	27113001	17.2	http://unitsofmeasure.org	kg	weight	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
-A16	42	Months	Weight	http://snomed.info/id/27113001	27113001	14.3	http://unitsofmeasure.org	kg	weight	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
-B1	54	Months	Weight	http://snomed.info/id/27113001	27113001	17.8	http://unitsofmeasure.org	kg	weight	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
-B10	106	Months	Weight	http://snomed.info/id/27113001	27113001	38.05	http://unitsofmeasure.org	kg	weight	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
-B12	13	Months	Weight	http://snomed.info/id/27113001	27113001	11.6	http://unitsofmeasure.org	kg	weight	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
-B13	28	Months	Weight	http://snomed.info/id/27113001	27113001	15	http://unitsofmeasure.org	kg	weight	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
-B14	103	Months	Weight	http://snomed.info/id/27113001	27113001	41.3	http://unitsofmeasure.org	kg	weight	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
-B15	59	Months	Weight	http://snomed.info/id/27113001	27113001	22.2	http://unitsofmeasure.org	kg	weight	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
-B16	55	Months	Weight	http://snomed.info/id/27113001	27113001	25.4	http://unitsofmeasure.org	kg	weight	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
-B17	64	Months	Weight	http://snomed.info/id/27113001	27113001	18.3	http://unitsofmeasure.org	kg	weight	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
-B4	15	Months	Weight	http://snomed.info/id/27113001	27113001	9.3	http://unitsofmeasure.org	kg	weight	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
-B5	60	Months	Weight	http://snomed.info/id/27113001	27113001	16.7	http://unitsofmeasure.org	kg	weight	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
-B6	58	Months	Weight	http://snomed.info/id/27113001	27113001	18.1	http://unitsofmeasure.org	kg	weight	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
-B7	58	Months	Weight	http://snomed.info/id/27113001	27113001	15.6	http://unitsofmeasure.org	kg	weight	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
-B9	104	Months	Weight	http://snomed.info/id/27113001	27113001	39.3	http://unitsofmeasure.org	kg	weight	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
-A2	52	Months	Weight	http://snomed.info/id/27113001	27113001	23.2	http://unitsofmeasure.org	kg	weight	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
-A20	50	Months	Weight	http://snomed.info/id/27113001	27113001	16	http://unitsofmeasure.org	kg	weight	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
-A4	57	Months	Weight	http://snomed.info/id/27113001	27113001	16.3	http://unitsofmeasure.org	kg	weight	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
-A6	33	Months	Weight	http://snomed.info/id/27113001	27113001	13.76	http://unitsofmeasure.org	kg	weight	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
-A7	85	Months	Weight	http://snomed.info/id/27113001	27113001	24.5	http://unitsofmeasure.org	kg	weight	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
-A8	59	Months	Weight	http://snomed.info/id/27113001	27113001	18.5	http://unitsofmeasure.org	kg	weight	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
-A25	58	Months	Weight	http://snomed.info/id/27113001	27113001	17.4	http://unitsofmeasure.org	kg	weight	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
-B11	2	Months	Weight	http://snomed.info/id/27113001	27113001	5.1	http://unitsofmeasure.org	kg	weight	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
-B3	3	Months	Weight	http://snomed.info/id/27113001	27113001	6.1	http://unitsofmeasure.org	kg	weight	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
-A18	26	Months	Weight	http://snomed.info/id/27113001	27113001	12.9	http://unitsofmeasure.org	kg	weight	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
-A12	61	Months	Height	http://snomed.info/id/1153637007	1153637007	109.6	http://unitsofmeasure.org	cm	height	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
-A17	10	Months	Height	http://snomed.info/id/1153637007	1153637007	77.6	http://unitsofmeasure.org	cm	height	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
-A10	61	Months	Height	http://snomed.info/id/1153637007	1153637007	108	http://unitsofmeasure.org	cm	height	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
-A11	1	Months	Height	http://snomed.info/id/1153637007	1153637007	58	http://unitsofmeasure.org	cm	height	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
-A13	53	Months	Height	http://snomed.info/id/1153637007	1153637007	102.8	http://unitsofmeasure.org	cm	height	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
-A14	58	Months	Height	http://snomed.info/id/1153637007	1153637007	107.3	http://unitsofmeasure.org	cm	height	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
-A15	30	Months	Height	http://snomed.info/id/1153637007	1153637007	89.5	http://unitsofmeasure.org	cm	height	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
-A22	91	Months	Height	http://snomed.info/id/1153637007	1153637007	121.5	http://unitsofmeasure.org	cm	height	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
-A23	61	Months	Height	http://snomed.info/id/1153637007	1153637007	103.5	http://unitsofmeasure.org	cm	height	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
-A24	4	Months	Height	http://snomed.info/id/1153637007	1153637007	59.5	http://unitsofmeasure.org	cm	height	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
-A26	49	Months	Height	http://snomed.info/id/1153637007	1153637007	100	http://unitsofmeasure.org	cm	height	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
-A27	53	Months	Height	http://snomed.info/id/1153637007	1153637007	106	http://unitsofmeasure.org	cm	height	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
-A3	6	Months	Height	http://snomed.info/id/1153637007	1153637007	Not reported	http://unitsofmeasure.org	cm	height	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
-A5	4	Months	Height	http://snomed.info/id/1153637007	1153637007	Not reported	http://unitsofmeasure.org	cm	height	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
-A9	77	Months	Height	http://snomed.info/id/1153637007	1153637007	121.5	http://unitsofmeasure.org	cm	height	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
-B18	25	Months	Height	http://snomed.info/id/1153637007	1153637007	89	http://unitsofmeasure.org	cm	height	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
-B8	4	Months	Height	http://snomed.info/id/1153637007	1153637007	61	http://unitsofmeasure.org	cm	height	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
-A1	50	Months	Height	http://snomed.info/id/1153637007	1153637007	Not reported	http://unitsofmeasure.org	cm	height	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
-A16	42	Months	Height	http://snomed.info/id/1153637007	1153637007	97.5	http://unitsofmeasure.org	cm	height	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
-B1	54	Months	Height	http://snomed.info/id/1153637007	1153637007	106	http://unitsofmeasure.org	cm	height	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
-B10	106	Months	Height	http://snomed.info/id/1153637007	1153637007	143.1	http://unitsofmeasure.org	cm	height	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
-B12	13	Months	Height	http://snomed.info/id/1153637007	1153637007	76.2	http://unitsofmeasure.org	cm	height	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
-B13	28	Months	Height	http://snomed.info/id/1153637007	1153637007	Not reported	http://unitsofmeasure.org	cm	height	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
-B14	103	Months	Height	http://snomed.info/id/1153637007	1153637007	133.2	http://unitsofmeasure.org	cm	height	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
-B15	59	Months	Height	http://snomed.info/id/1153637007	1153637007	114.4	http://unitsofmeasure.org	cm	height	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
-B16	55	Months	Height	http://snomed.info/id/1153637007	1153637007	115	http://unitsofmeasure.org	cm	height	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
-B17	64	Months	Height	http://snomed.info/id/1153637007	1153637007	110.2	http://unitsofmeasure.org	cm	height	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
-B4	15	Months	Height	http://snomed.info/id/1153637007	1153637007	Not reported	http://unitsofmeasure.org	cm	height	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
-B5	60	Months	Height	http://snomed.info/id/1153637007	1153637007	106.8	http://unitsofmeasure.org	cm	height	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
-B6	58	Months	Height	http://snomed.info/id/1153637007	1153637007	114.4	http://unitsofmeasure.org	cm	height	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
-B7	58	Months	Height	http://snomed.info/id/1153637007	1153637007	103	http://unitsofmeasure.org	cm	height	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
-B9	104	Months	Height	http://snomed.info/id/1153637007	1153637007	134.5	http://unitsofmeasure.org	cm	height	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
-A2	52	Months	Height	http://snomed.info/id/1153637007	1153637007	Not reported	http://unitsofmeasure.org	cm	height	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
-A20	50	Months	Height	http://snomed.info/id/1153637007	1153637007	102	http://unitsofmeasure.org	cm	height	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
-A4	57	Months	Height	http://snomed.info/id/1153637007	1153637007	Not reported	http://unitsofmeasure.org	cm	height	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
-A6	33	Months	Height	http://snomed.info/id/1153637007	1153637007	91	http://unitsofmeasure.org	cm	height	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
-A7	85	Months	Height	http://snomed.info/id/1153637007	1153637007	120.7	http://unitsofmeasure.org	cm	height	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
-A8	59	Months	Height	http://snomed.info/id/1153637007	1153637007	Not reported	http://unitsofmeasure.org	cm	height	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
-A25	58	Months	Height	http://snomed.info/id/1153637007	1153637007	106	http://unitsofmeasure.org	cm	height	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
-B11	2	Months	Height	http://snomed.info/id/1153637007	1153637007	56	http://unitsofmeasure.org	cm	height	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
-B3	3	Months	Height	http://snomed.info/id/1153637007	1153637007	Not reported	http://unitsofmeasure.org	cm	height	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
-A18	26	Months	Height	http://snomed.info/id/1153637007	1153637007	Not reported	http://unitsofmeasure.org	cm	height	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
-A12	61	Months	BMI	http://snomed.info/id/60621009	60621009	16.98279077	http://unitsofmeasure.org	kg/m2	BMI	high	Positive	Not Applicable	Not Applicable	Not Applicable
-A17	10	Months	BMI	http://snomed.info/id/60621009	60621009	Other	http://unitsofmeasure.org	kg/m2	BMI	other	Positive	Not Applicable	Not Applicable	Not Applicable
-A10	61	Months	BMI	http://snomed.info/id/60621009	60621009	15.60356653	http://unitsofmeasure.org	kg/m2	BMI	normal	Positive	Not Applicable	Not Applicable	Not Applicable
-A11	1	Months	BMI	http://snomed.info/id/60621009	60621009	Other	http://unitsofmeasure.org	kg/m2	BMI	other	Positive	Not Applicable	Not Applicable	Not Applicable
-A13	53	Months	BMI	http://snomed.info/id/60621009	60621009	13.53162046	http://unitsofmeasure.org	kg/m2	BMI	low	Positive	Not Applicable	Not Applicable	Not Applicable
-A14	58	Months	BMI	http://snomed.info/id/60621009	60621009	14.24440798	http://unitsofmeasure.org	kg/m2	BMI	normal	Positive	Not Applicable	Not Applicable	Not Applicable
-A15	30	Months	BMI	http://snomed.info/id/60621009	60621009	15.10564589	http://unitsofmeasure.org	kg/m2	BMI	normal	Positive	Not Applicable	Not Applicable	Not Applicable
-A22	91	Months	BMI	http://snomed.info/id/60621009	60621009	13.886772	http://unitsofmeasure.org	kg/m2	BMI	normal	Positive	Not Applicable	Not Applicable	Not Applicable
-A23	61	Months	BMI	http://snomed.info/id/60621009	60621009	17.36329903	http://unitsofmeasure.org	kg/m2	BMI	high	Positive	Not Applicable	Not Applicable	Not Applicable
-A24	4	Months	BMI	http://snomed.info/id/60621009	60621009	Other	http://unitsofmeasure.org	kg/m2	BMI	other	Positive	Not Applicable	Not Applicable	Not Applicable
-A26	49	Months	BMI	http://snomed.info/id/60621009	60621009	15.9	http://unitsofmeasure.org	kg/m2	BMI	normal	Positive	Not Applicable	Not Applicable	Not Applicable
-A27	53	Months	BMI	http://snomed.info/id/60621009	60621009	16.28693485	http://unitsofmeasure.org	kg/m2	BMI	normal	Positive	Not Applicable	Not Applicable	Not Applicable
-A3	6	Months	BMI	http://snomed.info/id/60621009	60621009	NULL	http://unitsofmeasure.org	kg/m2	BMI	other	Positive	Not Applicable	Not Applicable	Not Applicable
-A5	4	Months	BMI	http://snomed.info/id/60621009	60621009	NULL	http://unitsofmeasure.org	kg/m2	BMI	other	Positive	Not Applicable	Not Applicable	Not Applicable
-A9	77	Months	BMI	http://snomed.info/id/60621009	60621009	17.13830886	http://unitsofmeasure.org	kg/m2	BMI	normal	Positive	Not Applicable	Not Applicable	Not Applicable
-B18	25	Months	BMI	http://snomed.info/id/60621009	60621009	18.43201616	http://unitsofmeasure.org	kg/m2	BMI	high	Positive	Not Applicable	Not Applicable	Not Applicable
-B8	4	Months	BMI	http://snomed.info/id/60621009	60621009	Other	http://unitsofmeasure.org	kg/m2	BMI	other	Positive	Not Applicable	Not Applicable	Not Applicable
-A1	50	Months	BMI	http://snomed.info/id/60621009	60621009	NULL	http://unitsofmeasure.org	kg/m2	BMI	other	Positive	Not Applicable	Not Applicable	Not Applicable
-A16	42	Months	BMI	http://snomed.info/id/60621009	60621009	15.04273504	http://unitsofmeasure.org	kg/m2	BMI	normal	Positive	Not Applicable	Not Applicable	Not Applicable
-B1	54	Months	BMI	http://snomed.info/id/60621009	60621009	15.84193663	http://unitsofmeasure.org	kg/m2	BMI	normal	Positive	Not Applicable	Not Applicable	Not Applicable
-B10	106	Months	BMI	http://snomed.info/id/60621009	60621009	18.58126998	http://unitsofmeasure.org	kg/m2	BMI	normal	Positive	Not Applicable	Not Applicable	Not Applicable
-B12	13	Months	BMI	http://snomed.info/id/60621009	60621009	Other	http://unitsofmeasure.org	kg/m2	BMI	other	Positive	Not Applicable	Not Applicable	Not Applicable
-B13	28	Months	BMI	http://snomed.info/id/60621009	60621009	NULL	http://unitsofmeasure.org	kg/m2	BMI	other	Positive	Not Applicable	Not Applicable	Not Applicable
-B14	103	Months	BMI	http://snomed.info/id/60621009	60621009	23.27778229	http://unitsofmeasure.org	kg/m2	BMI	high	Positive	Not Applicable	Not Applicable	Not Applicable
-B15	59	Months	BMI	http://snomed.info/id/60621009	60621009	16.96293217	http://unitsofmeasure.org	kg/m2	BMI	high	Positive	Not Applicable	Not Applicable	Not Applicable
-B16	55	Months	BMI	http://snomed.info/id/60621009	60621009	19.20604915	http://unitsofmeasure.org	kg/m2	BMI	high	Positive	Not Applicable	Not Applicable	Not Applicable
-B17	64	Months	BMI	http://snomed.info/id/60621009	60621009	15.06912033	http://unitsofmeasure.org	kg/m2	BMI	normal	Positive	Not Applicable	Not Applicable	Not Applicable
-B4	15	Months	BMI	http://snomed.info/id/60621009	60621009	NULL	http://unitsofmeasure.org	kg/m2	BMI	other	Positive	Not Applicable	Not Applicable	Not Applicable
-B5	60	Months	BMI	http://snomed.info/id/60621009	60621009	14.64110873	http://unitsofmeasure.org	kg/m2	BMI	normal	Positive	Not Applicable	Not Applicable	Not Applicable
-B6	58	Months	BMI	http://snomed.info/id/60621009	60621009	13.83013839	http://unitsofmeasure.org	kg/m2	BMI	normal	Positive	Not Applicable	Not Applicable	Not Applicable
-B7	58	Months	BMI	http://snomed.info/id/60621009	60621009	14.70449618	http://unitsofmeasure.org	kg/m2	BMI	normal	Positive	Not Applicable	Not Applicable	Not Applicable
-B9	104	Months	BMI	http://snomed.info/id/60621009	60621009	21.72440956	http://unitsofmeasure.org	kg/m2	BMI	high	Positive	Not Applicable	Not Applicable	Not Applicable
-A2	52	Months	BMI	http://snomed.info/id/60621009	60621009	NULL	http://unitsofmeasure.org	kg/m2	BMI	other	Positive	Not Applicable	Not Applicable	Not Applicable
-A20	50	Months	BMI	http://snomed.info/id/60621009	60621009	15.3787005	http://unitsofmeasure.org	kg/m2	BMI	normal	Positive	Not Applicable	Not Applicable	Not Applicable
-A4	57	Months	BMI	http://snomed.info/id/60621009	60621009	NULL	http://unitsofmeasure.org	kg/m2	BMI	other	Positive	Not Applicable	Not Applicable	Not Applicable
-A6	33	Months	BMI	http://snomed.info/id/60621009	60621009	16.61635068	http://unitsofmeasure.org	kg/m2	BMI	normal	Positive	Not Applicable	Not Applicable	Not Applicable
-A7	85	Months	BMI	http://snomed.info/id/60621009	60621009	16.81711694	http://unitsofmeasure.org	kg/m2	BMI	normal	Positive	Not Applicable	Not Applicable	Not Applicable
-A8	59	Months	BMI	http://snomed.info/id/60621009	60621009	NULL	http://unitsofmeasure.org	kg/m2	BMI	other	Positive	Not Applicable	Not Applicable	Not Applicable
-A25	58	Months	BMI	http://snomed.info/id/60621009	60621009	15.48593806	http://unitsofmeasure.org	kg/m2	BMI	normal	Positive	Not Applicable	Not Applicable	Not Applicable
-B11	2	Months	BMI	http://snomed.info/id/60621009	60621009	Other	http://unitsofmeasure.org	kg/m2	BMI	other	Positive	Not Applicable	Not Applicable	Not Applicable
-B3	3	Months	BMI	http://snomed.info/id/60621009	60621009	Other	http://unitsofmeasure.org	kg/m2	BMI	other	Positive	Not Applicable	Not Applicable	Not Applicable
-A18	26	Months	BMI	http://snomed.info/id/60621009	60621009	NULL	http://unitsofmeasure.org	kg/m2	BMI	other	Positive	Not Applicable	Not Applicable	Not Applicable
+Participant ID	Age at Observation Value	Age at Observation Units	Observation Name	Observation Ontology URI	Observation Code	Quantity Value	Quantity System	Quantity Units	Category	Interpretation	Status	Body Site Name	Body Site Ontology URI	Body Site Code
+A12	61	Months	Weight	http://snomed.info/sct	27113001	20.4	http://unitsofmeasure.org	kg	Vital Signs	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
+A17	10	Months	Weight	http://snomed.info/sct	27113001	10.8	http://unitsofmeasure.org	kg	Vital Signs	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
+A10	61	Months	Weight	http://snomed.info/sct	27113001	18.2	http://unitsofmeasure.org	kg	Vital Signs	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
+A11	1	Months	Weight	http://snomed.info/sct	27113001	4.5	http://unitsofmeasure.org	kg	Vital Signs	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
+A13	53	Months	Weight	http://snomed.info/sct	27113001	14.3	http://unitsofmeasure.org	kg	Vital Signs	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
+A14	58	Months	Weight	http://snomed.info/sct	27113001	16.4	http://unitsofmeasure.org	kg	Vital Signs	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
+A15	30	Months	Weight	http://snomed.info/sct	27113001	12.1	http://unitsofmeasure.org	kg	Vital Signs	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
+A22	91	Months	Weight	http://snomed.info/sct	27113001	20.5	http://unitsofmeasure.org	kg	Vital Signs	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
+A23	61	Months	Weight	http://snomed.info/sct	27113001	18.6	http://unitsofmeasure.org	kg	Vital Signs	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
+A24	4	Months	Weight	http://snomed.info/sct	27113001	5.65	http://unitsofmeasure.org	kg	Vital Signs	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
+A26	49	Months	Weight	http://snomed.info/sct	27113001	15.9	http://unitsofmeasure.org	kg	Vital Signs	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
+A27	53	Months	Weight	http://snomed.info/sct	27113001	18.3	http://unitsofmeasure.org	kg	Vital Signs	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
+A3	6	Months	Weight	http://snomed.info/sct	27113001	7.8	http://unitsofmeasure.org	kg	Vital Signs	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
+A5	4	Months	Weight	http://snomed.info/sct	27113001	4.7	http://unitsofmeasure.org	kg	Vital Signs	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
+A9	77	Months	Weight	http://snomed.info/sct	27113001	25.3	http://unitsofmeasure.org	kg	Vital Signs	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
+B18	25	Months	Weight	http://snomed.info/sct	27113001	14.6	http://unitsofmeasure.org	kg	Vital Signs	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
+B8	4	Months	Weight	http://snomed.info/sct	27113001	6.7	http://unitsofmeasure.org	kg	Vital Signs	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
+A1	50	Months	Weight	http://snomed.info/sct	27113001	17.2	http://unitsofmeasure.org	kg	Vital Signs	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
+A16	42	Months	Weight	http://snomed.info/sct	27113001	14.3	http://unitsofmeasure.org	kg	Vital Signs	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
+B1	54	Months	Weight	http://snomed.info/sct	27113001	17.8	http://unitsofmeasure.org	kg	Vital Signs	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
+B10	106	Months	Weight	http://snomed.info/sct	27113001	38.05	http://unitsofmeasure.org	kg	Vital Signs	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
+B12	13	Months	Weight	http://snomed.info/sct	27113001	11.6	http://unitsofmeasure.org	kg	Vital Signs	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
+B13	28	Months	Weight	http://snomed.info/sct	27113001	15	http://unitsofmeasure.org	kg	Vital Signs	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
+B14	103	Months	Weight	http://snomed.info/sct	27113001	41.3	http://unitsofmeasure.org	kg	Vital Signs	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
+B15	59	Months	Weight	http://snomed.info/sct	27113001	22.2	http://unitsofmeasure.org	kg	Vital Signs	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
+B16	55	Months	Weight	http://snomed.info/sct	27113001	25.4	http://unitsofmeasure.org	kg	Vital Signs	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
+B17	64	Months	Weight	http://snomed.info/sct	27113001	18.3	http://unitsofmeasure.org	kg	Vital Signs	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
+B4	15	Months	Weight	http://snomed.info/sct	27113001	9.3	http://unitsofmeasure.org	kg	Vital Signs	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
+B5	60	Months	Weight	http://snomed.info/sct	27113001	16.7	http://unitsofmeasure.org	kg	Vital Signs	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
+B6	58	Months	Weight	http://snomed.info/sct	27113001	18.1	http://unitsofmeasure.org	kg	Vital Signs	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
+B7	58	Months	Weight	http://snomed.info/sct	27113001	15.6	http://unitsofmeasure.org	kg	Vital Signs	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
+B9	104	Months	Weight	http://snomed.info/sct	27113001	39.3	http://unitsofmeasure.org	kg	Vital Signs	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
+A2	52	Months	Weight	http://snomed.info/sct	27113001	23.2	http://unitsofmeasure.org	kg	Vital Signs	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
+A20	50	Months	Weight	http://snomed.info/sct	27113001	16	http://unitsofmeasure.org	kg	Vital Signs	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
+A4	57	Months	Weight	http://snomed.info/sct	27113001	16.3	http://unitsofmeasure.org	kg	Vital Signs	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
+A6	33	Months	Weight	http://snomed.info/sct	27113001	13.76	http://unitsofmeasure.org	kg	Vital Signs	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
+A7	85	Months	Weight	http://snomed.info/sct	27113001	24.5	http://unitsofmeasure.org	kg	Vital Signs	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
+A8	59	Months	Weight	http://snomed.info/sct	27113001	18.5	http://unitsofmeasure.org	kg	Vital Signs	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
+A25	58	Months	Weight	http://snomed.info/sct	27113001	17.4	http://unitsofmeasure.org	kg	Vital Signs	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
+B11	2	Months	Weight	http://snomed.info/sct	27113001	5.1	http://unitsofmeasure.org	kg	Vital Signs	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
+B3	3	Months	Weight	http://snomed.info/sct	27113001	6.1	http://unitsofmeasure.org	kg	Vital Signs	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
+A18	26	Months	Weight	http://snomed.info/sct	27113001	12.9	http://unitsofmeasure.org	kg	Vital Signs	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
+A12	61	Months	Height	http://snomed.info/sct	1153637007	109.6	http://unitsofmeasure.org	cm	Vital Signs	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
+A17	10	Months	Height	http://snomed.info/sct	1153637007	77.6	http://unitsofmeasure.org	cm	Vital Signs	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
+A10	61	Months	Height	http://snomed.info/sct	1153637007	108	http://unitsofmeasure.org	cm	Vital Signs	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
+A11	1	Months	Height	http://snomed.info/sct	1153637007	58	http://unitsofmeasure.org	cm	Vital Signs	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
+A13	53	Months	Height	http://snomed.info/sct	1153637007	102.8	http://unitsofmeasure.org	cm	Vital Signs	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
+A14	58	Months	Height	http://snomed.info/sct	1153637007	107.3	http://unitsofmeasure.org	cm	Vital Signs	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
+A15	30	Months	Height	http://snomed.info/sct	1153637007	89.5	http://unitsofmeasure.org	cm	Vital Signs	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
+A22	91	Months	Height	http://snomed.info/sct	1153637007	121.5	http://unitsofmeasure.org	cm	Vital Signs	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
+A23	61	Months	Height	http://snomed.info/sct	1153637007	103.5	http://unitsofmeasure.org	cm	Vital Signs	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
+A24	4	Months	Height	http://snomed.info/sct	1153637007	59.5	http://unitsofmeasure.org	cm	Vital Signs	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
+A26	49	Months	Height	http://snomed.info/sct	1153637007	100	http://unitsofmeasure.org	cm	Vital Signs	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
+A27	53	Months	Height	http://snomed.info/sct	1153637007	106	http://unitsofmeasure.org	cm	Vital Signs	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
+A3	6	Months	Height	http://snomed.info/sct	1153637007	Not Reported	http://unitsofmeasure.org	cm	Vital Signs	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
+A5	4	Months	Height	http://snomed.info/sct	1153637007	Not Reported	http://unitsofmeasure.org	cm	Vital Signs	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
+A9	77	Months	Height	http://snomed.info/sct	1153637007	121.5	http://unitsofmeasure.org	cm	Vital Signs	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
+B18	25	Months	Height	http://snomed.info/sct	1153637007	89	http://unitsofmeasure.org	cm	Vital Signs	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
+B8	4	Months	Height	http://snomed.info/sct	1153637007	61	http://unitsofmeasure.org	cm	Vital Signs	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
+A1	50	Months	Height	http://snomed.info/sct	1153637007	Not Reported	http://unitsofmeasure.org	cm	Vital Signs	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
+A16	42	Months	Height	http://snomed.info/sct	1153637007	97.5	http://unitsofmeasure.org	cm	Vital Signs	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
+B1	54	Months	Height	http://snomed.info/sct	1153637007	106	http://unitsofmeasure.org	cm	Vital Signs	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
+B10	106	Months	Height	http://snomed.info/sct	1153637007	143.1	http://unitsofmeasure.org	cm	Vital Signs	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
+B12	13	Months	Height	http://snomed.info/sct	1153637007	76.2	http://unitsofmeasure.org	cm	Vital Signs	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
+B13	28	Months	Height	http://snomed.info/sct	1153637007	Not Reported	http://unitsofmeasure.org	cm	Vital Signs	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
+B14	103	Months	Height	http://snomed.info/sct	1153637007	133.2	http://unitsofmeasure.org	cm	Vital Signs	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
+B15	59	Months	Height	http://snomed.info/sct	1153637007	114.4	http://unitsofmeasure.org	cm	Vital Signs	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
+B16	55	Months	Height	http://snomed.info/sct	1153637007	115	http://unitsofmeasure.org	cm	Vital Signs	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
+B17	64	Months	Height	http://snomed.info/sct	1153637007	110.2	http://unitsofmeasure.org	cm	Vital Signs	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
+B4	15	Months	Height	http://snomed.info/sct	1153637007	Not Reported	http://unitsofmeasure.org	cm	Vital Signs	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
+B5	60	Months	Height	http://snomed.info/sct	1153637007	106.8	http://unitsofmeasure.org	cm	Vital Signs	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
+B6	58	Months	Height	http://snomed.info/sct	1153637007	114.4	http://unitsofmeasure.org	cm	Vital Signs	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
+B7	58	Months	Height	http://snomed.info/sct	1153637007	103	http://unitsofmeasure.org	cm	Vital Signs	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
+B9	104	Months	Height	http://snomed.info/sct	1153637007	134.5	http://unitsofmeasure.org	cm	Vital Signs	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
+A2	52	Months	Height	http://snomed.info/sct	1153637007	Not Reported	http://unitsofmeasure.org	cm	Vital Signs	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
+A20	50	Months	Height	http://snomed.info/sct	1153637007	102	http://unitsofmeasure.org	cm	Vital Signs	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
+A4	57	Months	Height	http://snomed.info/sct	1153637007	Not Reported	http://unitsofmeasure.org	cm	Vital Signs	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
+A6	33	Months	Height	http://snomed.info/sct	1153637007	91	http://unitsofmeasure.org	cm	Vital Signs	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
+A7	85	Months	Height	http://snomed.info/sct	1153637007	120.7	http://unitsofmeasure.org	cm	Vital Signs	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
+A8	59	Months	Height	http://snomed.info/sct	1153637007	Not Reported	http://unitsofmeasure.org	cm	Vital Signs	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
+A25	58	Months	Height	http://snomed.info/sct	1153637007	106	http://unitsofmeasure.org	cm	Vital Signs	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
+B11	2	Months	Height	http://snomed.info/sct	1153637007	56	http://unitsofmeasure.org	cm	Vital Signs	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
+B3	3	Months	Height	http://snomed.info/sct	1153637007	Not Reported	http://unitsofmeasure.org	cm	Vital Signs	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
+A18	26	Months	Height	http://snomed.info/sct	1153637007	Not Reported	http://unitsofmeasure.org	cm	Vital Signs	Not Reported	Not Reported	Not Applicable	Not Applicable	Not Applicable
+A12	61	Months	BMI	http://snomed.info/sct	60621009	16.98279077	http://unitsofmeasure.org	kg/m2	Vital Signs	High	Positive	Not Applicable	Not Applicable	Not Applicable
+A17	10	Months	BMI	http://snomed.info/sct	60621009	Other	http://unitsofmeasure.org	kg/m2	Vital Signs	Other	Positive	Not Applicable	Not Applicable	Not Applicable
+A10	61	Months	BMI	http://snomed.info/sct	60621009	15.60356653	http://unitsofmeasure.org	kg/m2	Vital Signs	Normal	Positive	Not Applicable	Not Applicable	Not Applicable
+A11	1	Months	BMI	http://snomed.info/sct	60621009	Other	http://unitsofmeasure.org	kg/m2	Vital Signs	Other	Positive	Not Applicable	Not Applicable	Not Applicable
+A13	53	Months	BMI	http://snomed.info/sct	60621009	13.53162046	http://unitsofmeasure.org	kg/m2	Vital Signs	Low	Positive	Not Applicable	Not Applicable	Not Applicable
+A14	58	Months	BMI	http://snomed.info/sct	60621009	14.24440798	http://unitsofmeasure.org	kg/m2	Vital Signs	Normal	Positive	Not Applicable	Not Applicable	Not Applicable
+A15	30	Months	BMI	http://snomed.info/sct	60621009	15.10564589	http://unitsofmeasure.org	kg/m2	Vital Signs	Normal	Positive	Not Applicable	Not Applicable	Not Applicable
+A22	91	Months	BMI	http://snomed.info/sct	60621009	13.886772	http://unitsofmeasure.org	kg/m2	Vital Signs	Normal	Positive	Not Applicable	Not Applicable	Not Applicable
+A23	61	Months	BMI	http://snomed.info/sct	60621009	17.36329903	http://unitsofmeasure.org	kg/m2	Vital Signs	High	Positive	Not Applicable	Not Applicable	Not Applicable
+A24	4	Months	BMI	http://snomed.info/sct	60621009	Other	http://unitsofmeasure.org	kg/m2	Vital Signs	Other	Positive	Not Applicable	Not Applicable	Not Applicable
+A26	49	Months	BMI	http://snomed.info/sct	60621009	15.9	http://unitsofmeasure.org	kg/m2	Vital Signs	Normal	Positive	Not Applicable	Not Applicable	Not Applicable
+A27	53	Months	BMI	http://snomed.info/sct	60621009	16.28693485	http://unitsofmeasure.org	kg/m2	Vital Signs	Normal	Positive	Not Applicable	Not Applicable	Not Applicable
+A3	6	Months	BMI	http://snomed.info/sct	60621009	NULL	http://unitsofmeasure.org	kg/m2	Vital Signs	Other	Positive	Not Applicable	Not Applicable	Not Applicable
+A5	4	Months	BMI	http://snomed.info/sct	60621009	NULL	http://unitsofmeasure.org	kg/m2	Vital Signs	Other	Positive	Not Applicable	Not Applicable	Not Applicable
+A9	77	Months	BMI	http://snomed.info/sct	60621009	17.13830886	http://unitsofmeasure.org	kg/m2	Vital Signs	Normal	Positive	Not Applicable	Not Applicable	Not Applicable
+B18	25	Months	BMI	http://snomed.info/sct	60621009	18.43201616	http://unitsofmeasure.org	kg/m2	Vital Signs	High	Positive	Not Applicable	Not Applicable	Not Applicable
+B8	4	Months	BMI	http://snomed.info/sct	60621009	Other	http://unitsofmeasure.org	kg/m2	Vital Signs	Other	Positive	Not Applicable	Not Applicable	Not Applicable
+A1	50	Months	BMI	http://snomed.info/sct	60621009	NULL	http://unitsofmeasure.org	kg/m2	Vital Signs	Other	Positive	Not Applicable	Not Applicable	Not Applicable
+A16	42	Months	BMI	http://snomed.info/sct	60621009	15.04273504	http://unitsofmeasure.org	kg/m2	Vital Signs	Normal	Positive	Not Applicable	Not Applicable	Not Applicable
+B1	54	Months	BMI	http://snomed.info/sct	60621009	15.84193663	http://unitsofmeasure.org	kg/m2	Vital Signs	Normal	Positive	Not Applicable	Not Applicable	Not Applicable
+B10	106	Months	BMI	http://snomed.info/sct	60621009	18.58126998	http://unitsofmeasure.org	kg/m2	Vital Signs	Normal	Positive	Not Applicable	Not Applicable	Not Applicable
+B12	13	Months	BMI	http://snomed.info/sct	60621009	Other	http://unitsofmeasure.org	kg/m2	Vital Signs	Other	Positive	Not Applicable	Not Applicable	Not Applicable
+B13	28	Months	BMI	http://snomed.info/sct	60621009	NULL	http://unitsofmeasure.org	kg/m2	Vital Signs	Other	Positive	Not Applicable	Not Applicable	Not Applicable
+B14	103	Months	BMI	http://snomed.info/sct	60621009	23.27778229	http://unitsofmeasure.org	kg/m2	Vital Signs	High	Positive	Not Applicable	Not Applicable	Not Applicable
+B15	59	Months	BMI	http://snomed.info/sct	60621009	16.96293217	http://unitsofmeasure.org	kg/m2	Vital Signs	High	Positive	Not Applicable	Not Applicable	Not Applicable
+B16	55	Months	BMI	http://snomed.info/sct	60621009	19.20604915	http://unitsofmeasure.org	kg/m2	Vital Signs	High	Positive	Not Applicable	Not Applicable	Not Applicable
+B17	64	Months	BMI	http://snomed.info/sct	60621009	15.06912033	http://unitsofmeasure.org	kg/m2	Vital Signs	Normal	Positive	Not Applicable	Not Applicable	Not Applicable
+B4	15	Months	BMI	http://snomed.info/sct	60621009	NULL	http://unitsofmeasure.org	kg/m2	Vital Signs	Other	Positive	Not Applicable	Not Applicable	Not Applicable
+B5	60	Months	BMI	http://snomed.info/sct	60621009	14.64110873	http://unitsofmeasure.org	kg/m2	Vital Signs	Normal	Positive	Not Applicable	Not Applicable	Not Applicable
+B6	58	Months	BMI	http://snomed.info/sct	60621009	13.83013839	http://unitsofmeasure.org	kg/m2	Vital Signs	Normal	Positive	Not Applicable	Not Applicable	Not Applicable
+B7	58	Months	BMI	http://snomed.info/sct	60621009	14.70449618	http://unitsofmeasure.org	kg/m2	Vital Signs	Normal	Positive	Not Applicable	Not Applicable	Not Applicable
+B9	104	Months	BMI	http://snomed.info/sct	60621009	21.72440956	http://unitsofmeasure.org	kg/m2	Vital Signs	High	Positive	Not Applicable	Not Applicable	Not Applicable
+A2	52	Months	BMI	http://snomed.info/sct	60621009	NULL	http://unitsofmeasure.org	kg/m2	Vital Signs	Other	Positive	Not Applicable	Not Applicable	Not Applicable
+A20	50	Months	BMI	http://snomed.info/sct	60621009	15.3787005	http://unitsofmeasure.org	kg/m2	Vital Signs	Normal	Positive	Not Applicable	Not Applicable	Not Applicable
+A4	57	Months	BMI	http://snomed.info/sct	60621009	NULL	http://unitsofmeasure.org	kg/m2	Vital Signs	Other	Positive	Not Applicable	Not Applicable	Not Applicable
+A6	33	Months	BMI	http://snomed.info/sct	60621009	16.61635068	http://unitsofmeasure.org	kg/m2	Vital Signs	Normal	Positive	Not Applicable	Not Applicable	Not Applicable
+A7	85	Months	BMI	http://snomed.info/sct	60621009	16.81711694	http://unitsofmeasure.org	kg/m2	Vital Signs	Normal	Positive	Not Applicable	Not Applicable	Not Applicable
+A8	59	Months	BMI	http://snomed.info/sct	60621009	NULL	http://unitsofmeasure.org	kg/m2	Vital Signs	Other	Positive	Not Applicable	Not Applicable	Not Applicable
+A25	58	Months	BMI	http://snomed.info/sct	60621009	15.48593806	http://unitsofmeasure.org	kg/m2	Vital Signs	Normal	Positive	Not Applicable	Not Applicable	Not Applicable
+B11	2	Months	BMI	http://snomed.info/sct	60621009	Other	http://unitsofmeasure.org	kg/m2	Vital Signs	Other	Positive	Not Applicable	Not Applicable	Not Applicable
+B3	3	Months	BMI	http://snomed.info/sct	60621009	Other	http://unitsofmeasure.org	kg/m2	Vital Signs	Other	Positive	Not Applicable	Not Applicable	Not Applicable
+A18	26	Months	BMI	http://snomed.info/sct	60621009	NULL	http://unitsofmeasure.org	kg/m2	Vital Signs	Other	Positive	Not Applicable	Not Applicable	Not Applicable
