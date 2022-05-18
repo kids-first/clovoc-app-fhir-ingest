@@ -1,0 +1,43 @@
+Participant ID	Age at Onset Value	Age at Onset Units	Condition Prevalence Duration Value	Condition Prevalence Duration Units	Group	Age at Abatement Value	Age at Abatement Units	Condition Name	Condition Ontology URI	Condition Code	Verification Status	Body Site Name	Body Site Ontology URI	Body Site Code
+A12	Not Reported	Not Reported	61	Months	No scarring	Not Reported	Not Applicable	Scarring	http://snomed.info/sct	441872001	Negative	Ureteropelvic junction	http://snomed.info/sct	32004001
+A17	Not Reported	Not Reported	10	Months	VUR	Not Reported	Not Applicable	VUR	http://snomed.info/sct	197811007	Positive	Vesicoureteric junction	http://snomed.info/sct	261187001
+A10	Not Reported	Not Reported	61	Months	No scarring	Not Reported	Not Applicable	Scarring	http://snomed.info/sct	441872001	Negative	Ureteropelvic junction	http://snomed.info/sct	32004001
+A11	Not Reported	Not Reported	1	Months	No scarring	Not Reported	Not Applicable	Scarring	http://snomed.info/sct	441872001	Negative	Ureteropelvic junction	http://snomed.info/sct	32004001
+A13	Not Reported	Not Reported	53	Months	No scarring	Not Reported	Not Applicable	Scarring	http://snomed.info/sct	441872001	Negative	Ureteropelvic junction	http://snomed.info/sct	32004001
+A14	Not Reported	Not Reported	58	Months	No scarring	Not Reported	Not Applicable	Scarring	http://snomed.info/sct	441872001	Negative	Ureteropelvic junction	http://snomed.info/sct	32004001
+A15	Not Reported	Not Reported	30	Months	No scarring	Not Reported	Not Applicable	Scarring	http://snomed.info/sct	441872001	Negative	Ureteropelvic junction	http://snomed.info/sct	32004001
+A22	Not Reported	Not Reported	91	Months	No scarring	Not Reported	Not Applicable	Scarring	http://snomed.info/sct	441872001	Negative	Ureteropelvic junction	http://snomed.info/sct	32004001
+A23	Not Reported	Not Reported	61	Months	No scarring	Not Reported	Not Applicable	Scarring	http://snomed.info/sct	441872001	Negative	Ureteropelvic junction	http://snomed.info/sct	32004001
+A24	Not Reported	Not Reported	4	Months	No scarring	Not Reported	Not Applicable	Scarring	http://snomed.info/sct	441872001	Negative	Ureteropelvic junction	http://snomed.info/sct	32004001
+A26	Not Reported	Not Reported	49	Months	No scarring	Not Reported	Not Applicable	Scarring	http://snomed.info/sct	441872001	Negative	Ureteropelvic junction	http://snomed.info/sct	32004001
+A27	Not Reported	Not Reported	53	Months	No scarring	Not Reported	Not Applicable	Scarring	http://snomed.info/sct	441872001	Negative	Ureteropelvic junction	http://snomed.info/sct	32004001
+A3	Not Reported	Not Reported	6	Months	No scarring	Not Reported	Not Applicable	Scarring	http://snomed.info/sct	441872001	Negative	Ureteropelvic junction	http://snomed.info/sct	32004001
+A5	Not Reported	Not Reported	4	Months	No scarring	Not Reported	Not Applicable	Scarring	http://snomed.info/sct	441872001	Negative	Ureteropelvic junction	http://snomed.info/sct	32004001
+A9	Not Reported	Not Reported	77	Months	No scarring	Not Reported	Not Applicable	Scarring	http://snomed.info/sct	441872001	Negative	Ureteropelvic junction	http://snomed.info/sct	32004001
+B18	Not Reported	Not Reported	25	Months	No scarring	Not Reported	Not Applicable	Scarring	http://snomed.info/sct	441872001	Negative	Ureteropelvic junction	http://snomed.info/sct	32004001
+B8	Not Reported	Not Reported	4	Months	No scarring	Not Reported	Not Applicable	Scarring	http://snomed.info/sct	441872001	Negative	Ureteropelvic junction	http://snomed.info/sct	32004001
+A1		Not Applicable		Not Applicable	No VUR	Not Applicable	Not Applicable	VUR	http://snomed.info/sct	197811007	Negative	Vesicoureteric junction	http://snomed.info/sct	261187001
+A16		Not Applicable		Not Applicable	No VUR	Not Applicable	Not Applicable	VUR	http://snomed.info/sct	197811007	Negative	Vesicoureteric junction	http://snomed.info/sct	261187001
+B1		Not Applicable		Not Applicable	No VUR	Not Applicable	Not Applicable	VUR	http://snomed.info/sct	197811007	Negative	Vesicoureteric junction	http://snomed.info/sct	261187001
+B10		Not Applicable		Not Applicable	No VUR	Not Applicable	Not Applicable	VUR	http://snomed.info/sct	197811007	Negative	Vesicoureteric junction	http://snomed.info/sct	261187001
+B12		Not Applicable		Not Applicable	No VUR	Not Applicable	Not Applicable	VUR	http://snomed.info/sct	197811007	Negative	Vesicoureteric junction	http://snomed.info/sct	261187001
+B13		Not Applicable		Not Applicable	No VUR	Not Applicable	Not Applicable	VUR	http://snomed.info/sct	197811007	Negative	Vesicoureteric junction	http://snomed.info/sct	261187001
+B14		Not Applicable		Not Applicable	No VUR	Not Applicable	Not Applicable	VUR	http://snomed.info/sct	197811007	Negative	Vesicoureteric junction	http://snomed.info/sct	261187001
+B15		Not Applicable		Not Applicable	No VUR	Not Applicable	Not Applicable	VUR	http://snomed.info/sct	197811007	Negative	Vesicoureteric junction	http://snomed.info/sct	261187001
+B16		Not Applicable		Not Applicable	No VUR	Not Applicable	Not Applicable	VUR	http://snomed.info/sct	197811007	Negative	Vesicoureteric junction	http://snomed.info/sct	261187001
+B17		Not Applicable		Not Applicable	No VUR	Not Applicable	Not Applicable	VUR	http://snomed.info/sct	197811007	Negative	Vesicoureteric junction	http://snomed.info/sct	261187001
+B4		Not Applicable		Not Applicable	No VUR	Not Applicable	Not Applicable	VUR	http://snomed.info/sct	197811007	Negative	Vesicoureteric junction	http://snomed.info/sct	261187001
+B5		Not Applicable		Not Applicable	No VUR	Not Applicable	Not Applicable	VUR	http://snomed.info/sct	197811007	Negative	Vesicoureteric junction	http://snomed.info/sct	261187001
+B6		Not Applicable		Not Applicable	No VUR	Not Applicable	Not Applicable	VUR	http://snomed.info/sct	197811007	Negative	Vesicoureteric junction	http://snomed.info/sct	261187001
+B7		Not Applicable		Not Applicable	No VUR	Not Applicable	Not Applicable	VUR	http://snomed.info/sct	197811007	Negative	Vesicoureteric junction	http://snomed.info/sct	261187001
+B9		Not Applicable		Not Applicable	No VUR	Not Applicable	Not Applicable	VUR	http://snomed.info/sct	197811007	Negative	Vesicoureteric junction	http://snomed.info/sct	261187001
+A2	Not Reported	Not Reported	52	Months	Scarring	Not Reported	Not Applicable	Scarring	http://snomed.info/sct	441872001	Positive	Ureteropelvic junction	http://snomed.info/sct	32004001
+A20	Not Reported	Not Reported	50	Months	Scarring	Not Reported	Not Applicable	Scarring	http://snomed.info/sct	441872001	Positive	Ureteropelvic junction	http://snomed.info/sct	32004001
+A4	Not Reported	Not Reported	57	Months	Scarring	Not Reported	Not Applicable	Scarring	http://snomed.info/sct	441872001	Positive	Ureteropelvic junction	http://snomed.info/sct	32004001
+A6	Not Reported	Not Reported	33	Months	Scarring	Not Reported	Not Applicable	Scarring	http://snomed.info/sct	441872001	Positive	Ureteropelvic junction	http://snomed.info/sct	32004001
+A7	Not Reported	Not Reported	85	Months	Scarring	Not Reported	Not Applicable	Scarring	http://snomed.info/sct	441872001	Positive	Ureteropelvic junction	http://snomed.info/sct	32004001
+A8	Not Reported	Not Reported	59	Months	Scarring	Not Reported	Not Applicable	Scarring	http://snomed.info/sct	441872001	Positive	Ureteropelvic junction	http://snomed.info/sct	32004001
+A25	Not Reported	Not Reported	58	Months	VUR	Not Reported	Not Applicable	VUR	http://snomed.info/sct	197811007	Positive	Vesicoureteric junction	http://snomed.info/sct	261187001
+B11	Not Reported	Not Reported	2	Months	No scarring	Not Reported	Not Applicable	Scarring	http://snomed.info/sct	441872001	Negative	Ureteropelvic junction	http://snomed.info/sct	32004001
+B3		Not Applicable		Not Applicable	No VUR	Not Applicable	Not Applicable	VUR	http://snomed.info/sct	197811007	Negative	Vesicoureteric junction	http://snomed.info/sct	261187001
+A18	Not Reported	Not Reported	26	Months	Scarring	Not Reported	Not Applicable	Scarring	http://snomed.info/sct	441872001	Positive	Ureteropelvic junction	http://snomed.info/sct	32004001
