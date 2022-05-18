@@ -10,7 +10,7 @@ from kf_lib_data_ingest.common import constants
 from kf_lib_data_ingest.common.concept_schema import CONCEPT
 from kf_lib_data_ingest.etl.extract.operations import keep_map, value_map
 
-source_data_url = "file://../data/vesico-ureteric-reflux/vurGeneralObservations.tsv"
+source_data_url = "file://../data/vesico-ureteric-reflux/GeneralObservations.tsv"
 
 
 def qunatify(x):
