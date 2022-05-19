@@ -1,62 +1,94 @@
 """
-Auto-generated transform module
-
-Replace the contents of transform_function with your own code
+Transform module.
 
 See documentation at
 https://kids-first.github.io/kf-lib-data-ingest/ for information on
 implementing transform_function.
 """
 
-from kf_lib_data_ingest.common.concept_schema import CONCEPT  # noqa F401
+import pandas as pd
 
-# Use these merge funcs, not pandas.merge
-from kf_lib_data_ingest.common.pandas_utils import (  # noqa F401
-    merge_wo_duplicates,
-    outer_merge,
-)
+from kf_lib_data_ingest.common.concept_schema import CONCEPT
+from kf_lib_data_ingest.common.pandas_utils import outer_merge
 from kf_lib_data_ingest.config import DEFAULT_KEY
 
 
 def transform_function(mapped_df_dict):
-    """
-    Merge DataFrames in mapped_df_dict into 1 DataFrame if possible.
+    # Particiapnt details
+    participant_details = pd.concat(
+        [
+            mapped_df_dict["hypospadias_participant_details.py"],
+            mapped_df_dict["vur_participant_details.py"],
+        ],
+        ignore_index=True,
+    )
 
-    Return a dict that looks like this:
+    # Participant phenotypes
+    participant_phenotypes = pd.concat(
+        [
+            mapped_df_dict["hypospadias_participant_phenotypes.py"],
+            mapped_df_dict["vur_participant_phenotypes.py"],
+        ],
+        ignore_index=True,
+    )
 
-    {
-        DEFAULT_KEY: all_merged_data_df
-    }
+    # General observations
+    general_observations = pd.concat(
+        [
+            mapped_df_dict["hypospadias_general_observations.py"],
+            mapped_df_dict["vur_general_observations.py"],
+        ],
+        ignore_index=True,
+    )
 
-    If not possible to merge all DataFrames into a single DataFrame then
-    you can return a dict that looks something like this:
+    # Biospecimen collection manifest
+    biospecimen_collection_manifest = pd.concat(
+        [
+            mapped_df_dict["hypospadias_biospecimen_collection_manifest.py"],
+            mapped_df_dict["vur_biospecimen_collection_manifest.py"],
+        ],
+        ignore_index=True,
+    )
 
-    {
-        '<name of target concept>': df_for_<target_concept>,
-        DEFAULT_KEY: all_merged_data_df
-    }
+    # Metabolome file manifest
+    metabolome_file_manifest = pd.concat(
+        [
+            mapped_df_dict["hypospadias_metabolome_file_manifest.py"],
+            mapped_df_dict["vur_metabolome_file_manifest.py"],
+        ],
+        ignore_index=True,
+    )
 
-    Target concept instances will be built from the default DataFrame unless
-    another DataFrame is explicitly provided via a key, value pair in the
-    output dict. They key must match the name of an existing target concept.
-    The value will be the DataFrame to use when building instances of the
-    target concept.
+    # Outer-merge particiapnt details and participant phenotypes
+    df = outer_merge(
+        participant_details,
+        participant_phenotypes,
+        on=CONCEPT.PARTICIPANT.ID,
+        with_merge_detail_dfs=False,
+    )
 
-    A typical example would be:
+    # Outer-merge the above and general observations
+    df = outer_merge(
+        df, general_observations, on=CONCEPT.PARTICIPANT.ID, with_merge_detail_dfs=False
+    )
 
-    {
-        'family_relationship': family_relationship_df,
-        'default': all_merged_data_df
-    }
+    # Outer-merge the above and biospecimen collection manifest
+    df = outer_merge(
+        df,
+        biospecimen_collection_manifest,
+        on=CONCEPT.PARTICIPANT.ID,
+        with_merge_detail_dfs=False,
+    )
 
-    """
-    df = mapped_df_dict["extract_config.py"]
-
-    # df = outer_merge(
-    #     mapped_df_dict['extract_config.py'],
-    #     mapped_df_dict['family_and_phenotype.py'],
-    #     on=CONCEPT.BIOSPECIMEN.ID,
-    #     with_merge_detail_dfs=False
-    # )
+    # Outer-merge the above and matabolome file manifest
+    df = outer_merge(
+        df,
+        metabolome_file_manifest,
+        on=[
+            CONCEPT.PARTICIPANT.ID,
+            CONCEPT.BIOSPECIMEN.ID,
+        ],
+        with_merge_detail_dfs=False,
+    )
 
     return {DEFAULT_KEY: df}
