@@ -1,3 +1,2 @@
 kf_lib_data_ingest @ git+https://github.com/kids-first/kf-lib-data-ingest.git
 black
-

@@ -16,14 +16,11 @@ source_data_url = "file://../data/hypospadias/BiospecimenCollectionManifest.tsv"
 operations = [
     keep_map(in_col="Participant ID", out_col=CONCEPT.PARTICIPANT.ID),
     keep_map(in_col="Specimen ID", out_col=CONCEPT.BIOSPECIMEN.ID),
-    keep_map(in_col="Tissue Type Name", out_col="BIOSPECIMEN|TISSUE_TYPE|NAME"),
+    keep_map(in_col="Specimen Type Name", out_col="BIOSPECIMEN|TYPE|NAME"),
     keep_map(
-        in_col="Tissue Type Ontology URI",
-        out_col="BIOSPECIMEN|TISSUE_TYPE|ONTOLOGY_URI",
+        in_col="Specimen Type Ontology URI", out_col="BIOSPECIMEN|TYPE|ONTOLOGY_URI"
     ),
-    keep_map(
-        in_col="Tissue Type Code", out_col="BIOSPECIMEN|TISSUE_TYPE|ONTOLOGY_CODE"
-    ),
+    keep_map(in_col="Specimen Type Code", out_col="BIOSPECIMEN|TYPE|ONTOLOGY_CODE"),
     keep_map(in_col="Body Site Name", out_col="BIOSPECIMEN|BODY_SITE|NAME"),
     keep_map(
         in_col="Body Site Ontology URI", out_col="BIOSPECIMEN|BODY_SITE|ONTOLOGY_URI"
