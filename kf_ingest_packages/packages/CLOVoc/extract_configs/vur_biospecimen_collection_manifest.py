@@ -18,14 +18,11 @@ source_data_url = (
 operations = [
     keep_map(in_col="Participant ID", out_col=CONCEPT.PARTICIPANT.ID),
     keep_map(in_col="Specimen ID", out_col=CONCEPT.BIOSPECIMEN.ID),
-    keep_map(in_col="Composition Name", out_col="BIOSPECIMEN|COMPOSITION|NAME"),
+    keep_map(in_col="Specimen Type Name", out_col="BIOSPECIMEN|TYPE|NAME"),
     keep_map(
-        in_col="Composition Ontology URI",
-        out_col="BIOSPECIMEN|COMPOSITION|ONTOLOGY_URI",
+        in_col="Specimen Type Ontology URI", out_col="BIOSPECIMEN|TYPE|ONTOLOGY_URI"
     ),
-    keep_map(
-        in_col="Composition Code", out_col="BIOSPECIMEN|COMPOSITION|ONTOLOGY_CODE"
-    ),
+    keep_map(in_col="Specimen Type Code", out_col="BIOSPECIMEN|TYPE|ONTOLOGY_CODE"),
     value_map(
         in_col="Age at Collection Value",
         m=lambda x: int(x),
