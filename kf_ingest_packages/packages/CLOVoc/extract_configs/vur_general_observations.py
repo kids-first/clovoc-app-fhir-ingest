@@ -39,8 +39,8 @@ operations = [
     value_map(
         in_col="Quantity Value", m=qunatify, out_col="OBSERVATION|QUANTITY|VALUE"
     ),
-    keep_map(in_col="Quantity System", out_col="OBSERVATION|QUANTITY|SYSTEM"),
-    keep_map(in_col="Quantity Units", out_col="OBSERVATION|QUANTITY|UNITS"),
+    keep_map(in_col="Quantity System", out_col="OBSERVATION|QUANTITY|ONTOLOGY_URI"),
+    keep_map(in_col="Quantity Units", out_col="OBSERVATION|QUANTITY|ONTOLOGY_CODE"),
     keep_map(in_col="Category", out_col=CONCEPT.OBSERVATION.CATEGORY),
     keep_map(in_col="Interpretation", out_col=CONCEPT.OBSERVATION.INTERPRETATION),
 ]
