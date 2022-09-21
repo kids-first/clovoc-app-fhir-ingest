@@ -1,0 +1,201 @@
+Consent Short Name	Consent Group	Age at Collection Value	Age at Collection Units	Method of Sample Procurement	Ischemic Time	Ischemic Units	Parent Specimen ID	Specimen Group ID	Participant ID	Specimen ID	Specimen Type Name	Specimen Type Ontology URI	Specimen Type Code	Body Site Name	Body Site Ontology URI	Body Site Code
+									22574	283942	Leukocyte	http://snomed.info/sct	122584003	Other		
+									23069	284373	Leukocyte	http://snomed.info/sct	122584003	Other		
+									23123	284414	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									73308	417251	Peripheral Whole Blood	http://snomed.info/sct	122551003	midbrain tectum; pons; posterior cranial fossa; dorsal plus ventral thalamus	http://purl.obolibrary.org/obo/uberon.owl	UBERON:0002314; UBERON:0000988; UBERON:0008788; UBERON:0001897
+									73308	417248	Peripheral Whole Blood	http://snomed.info/sct	122551003	midbrain tectum; pons; posterior cranial fossa; dorsal plus ventral thalamus	http://purl.obolibrary.org/obo/uberon.owl	UBERON:0002314; UBERON:0000988; UBERON:0008788; UBERON:0001897
+									73308	417247	Peripheral Whole Blood	http://snomed.info/sct	122551003	midbrain tectum; pons; posterior cranial fossa; dorsal plus ventral thalamus	http://purl.obolibrary.org/obo/uberon.owl	UBERON:0002314; UBERON:0000988; UBERON:0008788; UBERON:0001897
+									73308	417246	Peripheral Whole Blood	http://snomed.info/sct	122551003	midbrain tectum; pons; posterior cranial fossa; dorsal plus ventral thalamus	http://purl.obolibrary.org/obo/uberon.owl	UBERON:0002314; UBERON:0000988; UBERON:0008788; UBERON:0001897
+									73308	417243	Peripheral Whole Blood	http://snomed.info/sct	122551003	midbrain tectum; pons; posterior cranial fossa; dorsal plus ventral thalamus	http://purl.obolibrary.org/obo/uberon.owl	UBERON:0002314; UBERON:0000988; UBERON:0008788; UBERON:0001897
+									73308	417244	Peripheral Whole Blood	http://snomed.info/sct	122551003	midbrain tectum; pons; posterior cranial fossa; dorsal plus ventral thalamus	http://purl.obolibrary.org/obo/uberon.owl	UBERON:0002314; UBERON:0000988; UBERON:0008788; UBERON:0001897
+									73308	417241	Peripheral Whole Blood	http://snomed.info/sct	122551003	midbrain tectum; pons; posterior cranial fossa; dorsal plus ventral thalamus	http://purl.obolibrary.org/obo/uberon.owl	UBERON:0002314; UBERON:0000988; UBERON:0008788; UBERON:0001897
+									75238	437823	Solid Tissue	http://snomed.info/sct	258435002	brain ventricle	http://purl.obolibrary.org/obo/uberon.owl	UBERON:0004086
+									75238	437822	Solid Tissue	http://snomed.info/sct	258435002	brain ventricle	http://purl.obolibrary.org/obo/uberon.owl	UBERON:0004086
+									75238	437820	Solid Tissue	http://snomed.info/sct	258435002	brain ventricle	http://purl.obolibrary.org/obo/uberon.owl	UBERON:0004086
+									75238	437816	Solid Tissue	http://snomed.info/sct	258435002	brain ventricle	http://purl.obolibrary.org/obo/uberon.owl	UBERON:0004086
+									75238	437819	Solid Tissue	http://snomed.info/sct	258435002	brain ventricle	http://purl.obolibrary.org/obo/uberon.owl	UBERON:0004086
+									75238	437814	Solid Tissue	http://snomed.info/sct	258435002	brain ventricle	http://purl.obolibrary.org/obo/uberon.owl	UBERON:0004086
+									75238	437812	Solid Tissue	http://snomed.info/sct	258435002	brain ventricle	http://purl.obolibrary.org/obo/uberon.owl	UBERON:0004086
+									75238	437810	Solid Tissue	http://snomed.info/sct	258435002	brain ventricle	http://purl.obolibrary.org/obo/uberon.owl	UBERON:0004086
+									75268	438717	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Applicable		
+									75268	438716	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Applicable		
+									75268	438715	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Applicable		
+									75268	438714	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Applicable		
+									75268	438711	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Applicable		
+									75268	438710	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Applicable		
+									75268	438709	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Applicable		
+									75268	438704	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Applicable		
+									75564	458950	Solid Tissue	http://snomed.info/sct	258435002	posterior cranial fossa	http://purl.obolibrary.org/obo/uberon.owl	UBERON:0008788
+									75564	458949	Not Reported			Not Reported		
+									75564	458944	Peripheral Whole Blood	http://snomed.info/sct	122551003	posterior cranial fossa	http://purl.obolibrary.org/obo/uberon.owl	UBERON:0008788
+									75564	458942	Solid Tissue	http://snomed.info/sct	258435002	posterior cranial fossa	http://purl.obolibrary.org/obo/uberon.owl	UBERON:0008788
+									75564	442055	Solid Tissue	http://snomed.info/sct	258435002	posterior cranial fossa	http://purl.obolibrary.org/obo/uberon.owl	UBERON:0008788
+									75564	442054	Solid Tissue	http://snomed.info/sct	258435002	posterior cranial fossa	http://purl.obolibrary.org/obo/uberon.owl	UBERON:0008788
+									75564	442052	Solid Tissue	http://snomed.info/sct	258435002	posterior cranial fossa	http://purl.obolibrary.org/obo/uberon.owl	UBERON:0008788
+									75564	442053	Peripheral Whole Blood	http://snomed.info/sct	122551003	posterior cranial fossa	http://purl.obolibrary.org/obo/uberon.owl	UBERON:0008788
+									75564	442050	Solid Tissue	http://snomed.info/sct	258435002	posterior cranial fossa	http://purl.obolibrary.org/obo/uberon.owl	UBERON:0008788
+									75564	442049	Solid Tissue	http://snomed.info/sct	258435002	posterior cranial fossa	http://purl.obolibrary.org/obo/uberon.owl	UBERON:0008788
+									75564	442048	Solid Tissue	http://snomed.info/sct	258435002	posterior cranial fossa	http://purl.obolibrary.org/obo/uberon.owl	UBERON:0008788
+									75564	442047	Peripheral Whole Blood	http://snomed.info/sct	122551003	posterior cranial fossa	http://purl.obolibrary.org/obo/uberon.owl	UBERON:0008788
+									75564	442046	Solid Tissue	http://snomed.info/sct	258435002	posterior cranial fossa	http://purl.obolibrary.org/obo/uberon.owl	UBERON:0008788
+									75564	442044	Solid Tissue	http://snomed.info/sct	258435002	posterior cranial fossa	http://purl.obolibrary.org/obo/uberon.owl	UBERON:0008788
+									75564	442045	Solid Tissue	http://snomed.info/sct	258435002	posterior cranial fossa	http://purl.obolibrary.org/obo/uberon.owl	UBERON:0008788
+									75564	442042	Solid Tissue	http://snomed.info/sct	258435002	posterior cranial fossa	http://purl.obolibrary.org/obo/uberon.owl	UBERON:0008788
+									75564	442041	Solid Tissue	http://snomed.info/sct	258435002	posterior cranial fossa	http://purl.obolibrary.org/obo/uberon.owl	UBERON:0008788
+									75564	442039	Solid Tissue	http://snomed.info/sct	258435002	posterior cranial fossa	http://purl.obolibrary.org/obo/uberon.owl	UBERON:0008788
+									75564	442038	Solid Tissue	http://snomed.info/sct	258435002	posterior cranial fossa	http://purl.obolibrary.org/obo/uberon.owl	UBERON:0008788
+									75564	442034	Solid Tissue	http://snomed.info/sct	258435002	posterior cranial fossa	http://purl.obolibrary.org/obo/uberon.owl	UBERON:0008788
+									75564	442028	Solid Tissue	http://snomed.info/sct	258435002	posterior cranial fossa	http://purl.obolibrary.org/obo/uberon.owl	UBERON:0008788
+									75640	459026	Peripheral Whole Blood	http://snomed.info/sct	122551003	frontal lobe	http://purl.obolibrary.org/obo/uberon.owl	UBERON:0016525
+									75640	459025	Solid Tissue	http://snomed.info/sct	258435002	frontal lobe	http://purl.obolibrary.org/obo/uberon.owl	UBERON:0016525
+									75640	459014	Not Reported			Not Reported		
+									75640	459013	Solid Tissue	http://snomed.info/sct	258435002	frontal lobe	http://purl.obolibrary.org/obo/uberon.owl	UBERON:0016525
+									75640	443306	Peripheral Whole Blood	http://snomed.info/sct	122551003	frontal lobe	http://purl.obolibrary.org/obo/uberon.owl	UBERON:0016525
+									75640	443303	Solid Tissue	http://snomed.info/sct	258435002	frontal lobe	http://purl.obolibrary.org/obo/uberon.owl	UBERON:0016525
+									75640	443304	Solid Tissue	http://snomed.info/sct	258435002	frontal lobe	http://purl.obolibrary.org/obo/uberon.owl	UBERON:0016525
+									75640	443302	Solid Tissue	http://snomed.info/sct	258435002	frontal lobe	http://purl.obolibrary.org/obo/uberon.owl	UBERON:0016525
+									75640	443301	Solid Tissue	http://snomed.info/sct	258435002	frontal lobe	http://purl.obolibrary.org/obo/uberon.owl	UBERON:0016525
+									75640	443299	Peripheral Whole Blood	http://snomed.info/sct	122551003	frontal lobe	http://purl.obolibrary.org/obo/uberon.owl	UBERON:0016525
+									75640	443300	Solid Tissue	http://snomed.info/sct	258435002	frontal lobe	http://purl.obolibrary.org/obo/uberon.owl	UBERON:0016525
+									75640	443297	Solid Tissue	http://snomed.info/sct	258435002	frontal lobe	http://purl.obolibrary.org/obo/uberon.owl	UBERON:0016525
+									75640	443298	Peripheral Whole Blood	http://snomed.info/sct	122551003	frontal lobe	http://purl.obolibrary.org/obo/uberon.owl	UBERON:0016525
+									75640	443296	Solid Tissue	http://snomed.info/sct	258435002	frontal lobe	http://purl.obolibrary.org/obo/uberon.owl	UBERON:0016525
+									75640	443294	Solid Tissue	http://snomed.info/sct	258435002	frontal lobe	http://purl.obolibrary.org/obo/uberon.owl	UBERON:0016525
+									75640	443291	Peripheral Whole Blood	http://snomed.info/sct	122551003	frontal lobe	http://purl.obolibrary.org/obo/uberon.owl	UBERON:0016525
+									75640	443295	Solid Tissue	http://snomed.info/sct	258435002	frontal lobe	http://purl.obolibrary.org/obo/uberon.owl	UBERON:0016525
+									75640	443293	Solid Tissue	http://snomed.info/sct	258435002	frontal lobe	http://purl.obolibrary.org/obo/uberon.owl	UBERON:0016525
+									75640	443290	Solid Tissue	http://snomed.info/sct	258435002	frontal lobe	http://purl.obolibrary.org/obo/uberon.owl	UBERON:0016525
+									75640	443285	Solid Tissue	http://snomed.info/sct	258435002	frontal lobe	http://purl.obolibrary.org/obo/uberon.owl	UBERON:0016525
+									103359	581610	Blood	http://snomed.info/sct	119297000	Not Reported		
+									103557	581703	Saliva	http://snomed.info/sct	258560004	Not Reported		
+									103611	581753	Saliva	http://snomed.info/sct	258560004	Not Reported		
+									103693	581794	Saliva	http://snomed.info/sct	258560004	Not Reported		
+									139089	625785	Blood	http://snomed.info/sct	119297000			
+									139455	626164	Blood	http://snomed.info/sct	119297000			
+									139847	626517	Blood	http://snomed.info/sct	119297000			
+									139923	625554	Blood	http://snomed.info/sct	119297000			
+									140000	626647	Blood	http://snomed.info/sct	119297000			
+									140325	627039	Blood	http://snomed.info/sct	119297000			
+									140419	626966	Blood	http://snomed.info/sct	119297000			
+									140518	627100	Blood	http://snomed.info/sct	119297000			
+									140791	627318	Blood	http://snomed.info/sct	119297000			
+									141071	627634	Blood	http://snomed.info/sct	119297000			
+									141666	628239	Blood	http://snomed.info/sct	119297000			
+									258104	646101	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									258121	645847	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									258132	646621	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									258138	646616	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									258147	647284	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									258157	646636	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									258166	645799	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									258169	646637	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									258173	646239	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									258199	646646	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									258203	646651	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									258237	646663	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									258238	645809	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									258244	646671	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									258251	646682	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									258276	646689	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									258278	646695	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									258292	645776	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									258294	645791	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									258320	645947	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									258322	646710	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									258333	646079	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									258334	646724	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									258350	645779	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									258356	646230	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									258360	646155	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									258364	646725	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									258406	646233	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									258411	646739	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									258430	645786	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									258437	646836	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									258469	645813	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									258498	646249	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									258511	645988	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									258529	646756	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									258531	646758	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									258553	646773	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									258554	646775	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									258560	646782	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									258561	646778	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									258570	645815	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									258573	645909	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									258611	646802	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									258648	646819	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									258649	646193	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									258650	646814	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									258659	646823	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									258681	645829	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									258688	646854	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									258706	645924	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									258718	646884	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									258721	646893	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									258729	646895	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									258742	646095	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									258763	646914	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									258790	645946	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									258797	646266	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									258818	646933	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									258831	645929	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									258836	645850	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									258840	647282	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									258866	645859	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									258870	646950	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									258874	646966	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									258910	646968	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									258911	646000	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									258913	645957	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									258914	646038	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									258936	646983	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									258939	646980	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									258950	646992	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									258951	645867	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									258962	646003	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									258976	647003	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									258987	647008	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									258990	647001	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									259015	647028	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									259026	646013	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									259032	645876	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									259035	646113	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									259071	647036	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									259082	647039	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									259092	647046	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									259093	645928	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									259130	647062	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									259146	646065	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									259202	647083	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									259220	645899	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									259233	645955	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									259247	647099	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									259266	645903	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									259297	645922	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									259299	646089	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									259315	647129	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									259335	647148	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									259340	647163	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									259375	647176	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									259379	646042	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									259382	645923	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									259396	645933	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									259397	646058	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									259422	647180	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									259447	647202	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									259450	647213	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									259464	647214	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									259475	646011	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									259502	647234	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									259515	647238	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									259543	645996	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									259552	647262	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									259565	647274	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									259573	646177	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									259575	645997	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									259583	646027	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									259585	647278	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									259594	646017	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									259595	647285	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		
+									259598	646211	Peripheral Whole Blood	http://snomed.info/sct	122551003	Not Reported		

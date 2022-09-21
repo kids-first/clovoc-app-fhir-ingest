@@ -7,23 +7,23 @@ H28-C	Not Reported	Not Applicable	Not Applicable	Not Applicable	Not Applicable	N
 H29-C	Not Reported	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable
 H42-C	Not Reported	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable
 H8-C	Not Reported	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable
-H12-I	Not Reported	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Tubularized incised plate urethroplasty	http://snomed.info/id/699723009	699723009
-H20-I	Not Reported	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Tubularized incised plate urethroplasty	http://snomed.info/id/699723009	699723009
-H23-I	Not Reported	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Tubularized incised plate urethroplasty	http://snomed.info/id/699723009	699723009
-H26-I	Not Reported	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Patient observation over time	http://snomed.info/id/238692003	238692003
-H32-I	Not Reported	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Repair of hypospadias urethroplasty using glanular flap	http://snomed.info/id/763094001	763094001
-H3-I	Not Reported	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Repair of hypospadias urethroplasty using glanular flap	http://snomed.info/id/763094001	763094001
-H40-I	Not Reported	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Tubularized incised plate urethroplasty	http://snomed.info/id/699723009	699723009
-H24-II	Not Reported	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Patient observation over time	http://snomed.info/id/238692003	238692003
-H30-II	Not Reported	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Patient observation over time	http://snomed.info/id/238692003	238692003
-H31-II	Not Reported	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Patient observation over time	http://snomed.info/id/238692003	238692003
-H33-II	Not Reported	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Patient observation over time	http://snomed.info/id/238692003	238692003
-H35-II	Not Reported	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Mathieu hypospadias repair	http://snomed.info/id/236280001	236280001
-H36-II	Not Reported	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Tubularized incised plate urethroplasty	http://snomed.info/id/699723009	699723009
-H43-II	Not Reported	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Patient observation over time	http://snomed.info/id/238692003	238692003
-H14-III	Not Reported	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Patient observation over time	http://snomed.info/id/238692003	238692003
-H37-III	Not Reported	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Patient observation over time	http://snomed.info/id/238692003	238692003
-H38-III	Not Reported	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Patient observation over time	http://snomed.info/id/238692003	238692003
-H39-III	Not Reported	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Patient observation over time	http://snomed.info/id/238692003	238692003
-H41-III	Not Reported	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Patient observation over time	http://snomed.info/id/238692003	238692003
-H44-III	Not Reported	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Patient observation over time	http://snomed.info/id/238692003	238692003
+H12-I	Not Reported	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Tubularized incised plate urethroplasty	http://snomed.info/sct	699723009
+H20-I	Not Reported	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Tubularized incised plate urethroplasty	http://snomed.info/sct	699723009
+H23-I	Not Reported	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Tubularized incised plate urethroplasty	http://snomed.info/sct	699723009
+H26-I	Not Reported	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Patient observation over time	http://snomed.info/sct	238692003
+H32-I	Not Reported	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Repair of hypospadias urethroplasty using glanular flap	http://snomed.info/sct	763094001
+H3-I	Not Reported	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Repair of hypospadias urethroplasty using glanular flap	http://snomed.info/sct	763094001
+H40-I	Not Reported	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Tubularized incised plate urethroplasty	http://snomed.info/sct	699723009
+H24-II	Not Reported	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Patient observation over time	http://snomed.info/sct	238692003
+H30-II	Not Reported	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Patient observation over time	http://snomed.info/sct	238692003
+H31-II	Not Reported	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Patient observation over time	http://snomed.info/sct	238692003
+H33-II	Not Reported	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Patient observation over time	http://snomed.info/sct	238692003
+H35-II	Not Reported	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Mathieu hypospadias repair	http://snomed.info/sct	236280001
+H36-II	Not Reported	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Tubularized incised plate urethroplasty	http://snomed.info/sct	699723009
+H43-II	Not Reported	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Patient observation over time	http://snomed.info/sct	238692003
+H14-III	Not Reported	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Patient observation over time	http://snomed.info/sct	238692003
+H37-III	Not Reported	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Patient observation over time	http://snomed.info/sct	238692003
+H38-III	Not Reported	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Patient observation over time	http://snomed.info/sct	238692003
+H39-III	Not Reported	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Patient observation over time	http://snomed.info/sct	238692003
+H41-III	Not Reported	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Patient observation over time	http://snomed.info/sct	238692003
+H44-III	Not Reported	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Patient observation over time	http://snomed.info/sct	238692003
