@@ -16,6 +16,7 @@ status = "active"
 study_id_to_title = {
     "ST001306": "Biomolecular analyses of hypospadias according to severity",
     "ST001649": "Urinary microbiota and metabolome in pediatric vesicoureteral reflux and scarring",
+    "kids-first": "Kids First",
 }
 
 
@@ -91,6 +92,9 @@ class ResearchStudy:
         # enrollment
         enrollment = []
         for group_name in record.get("GROUP|NAME", []):
+            if group_name is None:
+                continue
+
             group_id = not_none(
                 get_target_id_from_record(
                     Group,

@@ -66,6 +66,14 @@ omb_race_category = {
             "display": "Unknown",
         },
     },
+    constants.COMMON.UNKNOWN: {
+        "url": "ombCategory",
+        "valueCoding": {
+            "system": "http://terminology.hl7.org/CodeSystem/v3-NullFlavor",
+            "code": "UNK",
+            "display": "Unknown",
+        },
+    },
 }
 
 # https://hl7.org/fhir/us/core/ValueSet-omb-ethnicity-category.html
@@ -134,7 +142,7 @@ class Patient:
         participant_id = record[CONCEPT.PARTICIPANT.ID]
         race = record.get(CONCEPT.PARTICIPANT.RACE)
         ethnicity = record.get(CONCEPT.PARTICIPANT.ETHNICITY)
-        gender = record.get(CONCEPT.PARTICIPANT.GENDER)
+        gender = record.get(CONCEPT.PARTICIPANT.SEX)
         enrollment_age_value = record.get(CONCEPT.PARTICIPANT.ENROLLMENT_AGE.VALUE)
         enrollment_age_units = record.get(CONCEPT.PARTICIPANT.ENROLLMENT_AGE.UNITS)
         vital_status = record.get(CONCEPT.OUTCOME.VITAL_STATUS)

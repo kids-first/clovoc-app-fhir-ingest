@@ -21,6 +21,11 @@ verification_status_coding = {
         "code": "confirmed",
         "display": "Confirmed",
     },
+    constants.COMMON.UNKNOWN: {
+        "system": "http://terminology.hl7.org/CodeSystem/condition-ver-status",
+        "code": "unconfirmed",
+        "display": "Unconfirmed",
+    },
 }
 
 # http://unitsofmeasure.org
