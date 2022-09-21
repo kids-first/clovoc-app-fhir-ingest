@@ -6,9 +6,8 @@ https://kids-first.github.io/kf-lib-data-ingest/tutorial/extract.html for
 information on writing extract config files.
 """
 
-from kf_lib_data_ingest.common import constants
 from kf_lib_data_ingest.common.concept_schema import CONCEPT
-from kf_lib_data_ingest.etl.extract.operations import keep_map, value_map
+from kf_lib_data_ingest.etl.extract.operations import keep_map
 
 source_data_url = "file://../data/hypospadias/BiospecimenCollectionManifest.tsv"
 
