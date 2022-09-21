@@ -19,6 +19,7 @@ def transform_function(mapped_df_dict):
         [
             mapped_df_dict["hypospadias_participant_details.py"],
             mapped_df_dict["vur_participant_details.py"],
+            mapped_df_dict["kf_participant_details.py"],
         ],
         ignore_index=True,
     )
@@ -28,6 +29,7 @@ def transform_function(mapped_df_dict):
         [
             mapped_df_dict["hypospadias_participant_phenotypes.py"],
             mapped_df_dict["vur_participant_phenotypes.py"],
+            mapped_df_dict["kf_participant_phenotypes.py"],
         ],
         ignore_index=True,
     )
@@ -46,6 +48,7 @@ def transform_function(mapped_df_dict):
         [
             mapped_df_dict["hypospadias_biospecimen_collection_manifest.py"],
             mapped_df_dict["vur_biospecimen_collection_manifest.py"],
+            mapped_df_dict["kf_biospecimen_collection_manifest.py"],
         ],
         ignore_index=True,
     )
