@@ -4,7 +4,7 @@ The CLOVoc App FHIR Ingestor extracts records from harmonized tabular files, tra
 
 ## Quickstart
 
-1. Make sure Python (>=3.7) is installed on your local machine or remote server where the ingestor is deployed.
+1. Make sure Python (>=3.8) is installed on your local machine or remote server where the ingestor is deployed.
 
 2. Clone this repository:
 
@@ -16,7 +16,6 @@ $ cd clovoc-app-fhir-ingest
 3. Create a `.env` file in the root directory:
 
 ```
-FHIR_COOKIE="FHIR-COOKIE"
 FHIR_USERNAME="FHIR-USERNAME"
 FHIR_PASSWORD="FHIR-PASSWORD"
 ```
