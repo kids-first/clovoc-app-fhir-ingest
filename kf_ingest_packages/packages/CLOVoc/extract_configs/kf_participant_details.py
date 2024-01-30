@@ -1,5 +1,5 @@
 """
-Extract config module for kids first - participant details.
+Extract config module for Kids First - participant details.
 
 See documentation at
 https://kids-first.github.io/kf-lib-data-ingest/tutorial/extract.html for
