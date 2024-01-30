@@ -132,5 +132,9 @@ dmypy.json
 logs/
 output/
 
+# Data files
+*.csv
+*.tsv
+
 # Miscellaneous
 .DS_Store
