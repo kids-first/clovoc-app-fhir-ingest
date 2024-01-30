@@ -5,5 +5,8 @@ from target_api_plugins.entity_builders.research_study import ResearchStudy
 from target_api_plugins.entity_builders.research_subject import ResearchSubject
 from target_api_plugins.entity_builders.phenotype import Phenotype
 from target_api_plugins.entity_builders.vital_signs import VitalSigns
+from target_api_plugins.entity_builders.antibodies import Antibodies
+from target_api_plugins.entity_builders.chemistry import Chemistry
+from target_api_plugins.entity_builders.genotype import Genotype
 from target_api_plugins.entity_builders.specimen import Specimen
 from target_api_plugins.entity_builders.document_reference import DocumentReference

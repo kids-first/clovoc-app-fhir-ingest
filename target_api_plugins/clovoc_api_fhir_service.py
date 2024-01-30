@@ -3,7 +3,7 @@ import os
 from dotenv import find_dotenv, load_dotenv
 from requests import RequestException
 
-from config import ROOT_DIR
+# from config import ROOT_DIR
 from kf_lib_data_ingest.app.settings.production import SECRETS, AUTH_CONFIGS
 from target_api_plugins.entity_builders import (
     Practitioner,
@@ -11,15 +11,20 @@ from target_api_plugins.entity_builders import (
     Group,
     ResearchStudy,
     ResearchSubject,
+    Antibodies,
+    Chemistry,
+    Genotype,
     Phenotype,
     VitalSigns,
     Specimen,
     DocumentReference,
 )
 
-TARGET_API_CONFIG = os.path.join(
-    ROOT_DIR, "target_api_plugins", "clovoc_api_fhir_service.py"
-)
+# TARGET_API_CONFIG = os.path.join(
+#     ROOT_DIR, "target_api_plugins", "clovoc_api_fhir_service.py"
+# )
+
+TARGET_API_CONFIG = os.path.abspath(__file__)
 
 from d3b_utils.requests_retry import Session
 
@@ -104,6 +109,9 @@ Patient.submit = classmethod(submit)
 Group.submit = classmethod(submit)
 ResearchStudy.submit = classmethod(submit)
 ResearchSubject.submit = classmethod(submit)
+Antibodies.submit = classmethod(submit)
+Chemistry.submit = classmethod(submit)
+Genotype.submit = classmethod(submit)
 Phenotype.submit = classmethod(submit)
 VitalSigns.submit = classmethod(submit)
 Specimen.submit = classmethod(submit)
@@ -115,6 +123,9 @@ all_targets = [
     Group,
     ResearchStudy,
     ResearchSubject,
+    Antibodies,
+    Chemistry,
+    Genotype,
     Phenotype,
     VitalSigns,
     Specimen,
